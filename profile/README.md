@@ -20,7 +20,7 @@ Here is what I am currently building and maintaining:
 
 [![Zanop Kernel](https://img.shields.io/badge/zanop--kernel-C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://github.com/Zanop-Technologies/zanop-kernel)
 [![Zanop Search Engine](https://img.shields.io/badge/zanop--search--engine-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://github.com/Zanop-Technologies/zanop-search-engine)
-[![Zanop Licenses](https://img.shields.io/badge/zanop--software--licenses-AGPL--3.0-blue?style=for-the-badge&logo=gnu&logoColor=white)](https://github.com/Zanop-Technologies/zanop-software-licenses)
+[![Zanop Licenses](https://img.shields.io/badge/zanop--software--licenses-ZSL_Matrix-blue?style=for-the-badge&logo=gnu&logoColor=white)](https://github.com/Zanop-Technologies/zanop-software-licenses)
 
 ---
 
